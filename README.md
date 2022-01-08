@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Nguyenwasd72
 - 🙂 I’m interested in Coding
-- 📫 How to reach me nphamkhoi69@gmail.com
+- 📫 How to reach me: nphamkhoi69@gmail.com
