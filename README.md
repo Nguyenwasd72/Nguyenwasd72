@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Nguyenwasd72
-- 🙂 I’m interested in Coding
-- 📫 How to reach me: nphamkhoi69@gmail.com
+- 👋 Hi, I’m Nguyen
+- 🧑 He/Him
+- 🙂 I like coding
+- 📫 Reach me at: nphamkhoi69@gmail.com
