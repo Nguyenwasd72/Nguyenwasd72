@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Nguyen
 🧑 Gender: He/Him  
 
-💻 Replit.com: [KNguyen8442](replit.com/@KNguyen8442)
+💻 Replit.com: [KNguyen8442](https://replit.com/@KNguyen8442)
 
 📫 Reach me at: nphamkhoi69@gmail.com  
 
