@@ -6,6 +6,6 @@
 📫 Reach me at: nphamkhoi69@gmail.com  
 
 # Status
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nguyenwasd72&show_icons=true&theme=tokyonight)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nguyenwasd72&show_icons=true&theme=tokyonight)](https://github.com/Nguyenwasd72)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyenwasd72&layout=compact&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyenwasd72&layout=compact&theme=tokyonight)](https://github.com/Nguyenwasd72)
