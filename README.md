@@ -1,7 +1,9 @@
 # 👋 Hi there, I’m Nguyen
 🧑 Gender: He/Him  
 
-💻 Replit.com: [Nguyen's Replit](https://replit.com/@KNguyen8442)  
+🌏 Live at: Vietnam (VN/VI) 🇻🇳
+
+💻 Replit.com: [Replit](https://replit.com/@KNguyen8442)  
 
 📫 Reach me at: nphamkhoi69@gmail.com  
 
