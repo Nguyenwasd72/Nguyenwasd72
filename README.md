@@ -7,7 +7,6 @@
 
 # Social Media
 [![Twitter](https://user-images.githubusercontent.com/97346078/188296039-0fe6894f-f626-4a7d-99f5-862a5a43bd52.png)](https://twitter.com/ImAGuyLikeCodin)
-[![Facebook](https://user-images.githubusercontent.com/97346078/188296545-62f96a83-5520-408b-88f7-1c80f6d1f3d6.png)](https://facebook.com/profile.php?id=100072397400220)
 [![Discord](https://user-images.githubusercontent.com/97346078/188303386-067bf2f5-8717-4647-ae72-2585af025f7d.png)](https://example.com)
 [![Chess.com](https://user-images.githubusercontent.com/97346078/188302572-d714fd5b-a7ba-41ec-85d0-5b8d9345d9bd.png)](https://chess.com/member/nguyen10chess)
 
