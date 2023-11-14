@@ -7,7 +7,7 @@
 
 # Social Media
 [![Twitter](https://raw.githubusercontent.com/Nguyenwasd72/Nguyenwasd72/main/icons/twitter.png)](https://twitter.com/ImAGuyLikeCodin)
-[![Discord](https://raw.githubusercontent.com/Nguyenwasd72/Nguyenwasd72/main/icons/discord.png)](https://discord.com/login)
+[![Discord](https://raw.githubusercontent.com/Nguyenwasd72/Nguyenwasd72/main/icons/discord.png)](https://discord.com)
 [![Chess.com](https://raw.githubusercontent.com/Nguyenwasd72/Nguyenwasd72/main/icons/chesscom.png)](https://chess.com/member/nguyen10chess)
 
 # Status
