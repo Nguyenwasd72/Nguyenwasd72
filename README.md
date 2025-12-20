@@ -1,13 +1,13 @@
 # Hi there, I'm a lazy guy with messy code
-🧑 Gender: He/Him  
+🧑 Gender: He/Him
 
-🌏 Live in: Vietnam (VN/VIE) 🇻🇳
+🌏 Live in: Vietnam 🇻🇳
 
-📫 Email: nphamkhoi69@gmail.com  
+📫 Email: nphamkhoi69@gmail.com
 
 # Social Media
 [![Twitter](https://raw.githubusercontent.com/Nguyenwasd72/Nguyenwasd72/main/icons/twitter.png)](https://twitter.com/ImAGuyLikeCodin)
-[![Discord](https://raw.githubusercontent.com/Nguyenwasd72/Nguyenwasd72/main/icons/discord.png)](https://discord.com)
+[![Discord](https://raw.githubusercontent.com/Nguyenwasd72/Nguyenwasd72/main/icons/discord.png)]([https://discord.com/users/](https://discord.com/users/884019263160062002))
 [![Chess.com](https://raw.githubusercontent.com/Nguyenwasd72/Nguyenwasd72/main/icons/chesscom.png)](https://chess.com/member/nguyen10chess)
 
 # Status
@@ -15,4 +15,4 @@
 
 <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyenwasd72&layout=compact&theme=tokyonight)](https://github.com/Nguyenwasd72)-->
 
-[![Snake or smth](https://github.com/Nguyenwasd72/Nguyenwasd72/blob/output/github-contribution-grid-snake.svg)](https://github.com/Nguyenwasd72)
+[![Snek](https://github.com/Nguyenwasd72/Nguyenwasd72/blob/output/github-contribution-grid-snake.svg)](https://github.com/Nguyenwasd72)
