@@ -1,4 +1,4 @@
-# Hi there, I'm a lazy guy with messy code
+# 👋 Hi there
 🧑 Gender: He/Him
 
 🌏 Live in: Vietnam 🇻🇳
