@@ -7,7 +7,7 @@ I just code for fun
 
 # Social Media
 [![Twitter](https://raw.githubusercontent.com/Nguyenwasd72/Nguyenwasd72/main/icons/twitter.png)](https://twitter.com/ImAGuyLikeCodin)
-[![Discord](https://raw.githubusercontent.com/Nguyenwasd72/Nguyenwasd72/main/icons/discord.png)]([https://discord.com/users/](https://discord.com/users/884019263160062002))
+[![Discord](https://raw.githubusercontent.com/Nguyenwasd72/Nguyenwasd72/main/icons/discord.png)](https://discord.com/users/884019263160062002)
 [![Reddit](https://raw.githubusercontent.com/Nguyenwasd72/Nguyenwasd72/refs/heads/main/icons/reddit.png)](https://reddit.com/user/KNguyen_8442)
 [![Chess.com](https://raw.githubusercontent.com/Nguyenwasd72/Nguyenwasd72/main/icons/chesscom.png)](https://chess.com/member/nguyen10chess)
 
